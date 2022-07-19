@@ -7,7 +7,7 @@ In the Excercise 1 directory it is possible to find:
 * Ex_1.mat: the matlab script containing the solution of the first three points of the first excercise. 
 * optdmd-master: the repository of optdmd from https://github.com/duqbo/optdmd
 
-The notebook for Excercise 1.4 is: 
+The notebook for Excercise 1.4 is: ex-1-4.ipynb
 
 As reference for pysindy please refer to https://github.com/dynamicslab/pysindy
 
