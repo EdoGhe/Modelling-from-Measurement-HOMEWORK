@@ -9,4 +9,7 @@ The notebook for Excercise 1.4 is:
 
 # Excercise 2
 
+* ks-solver.ipynb contains the solution of the first two points of exercise 2
+* reaction-diffusion.ipynb contains the solution of the third point of exercise 2
+
 # Excercise 3
