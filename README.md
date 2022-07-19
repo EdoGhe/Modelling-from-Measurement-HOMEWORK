@@ -13,3 +13,5 @@ The notebook for Excercise 1.4 is:
 * reaction-diffusion-svd.ipynb contains the solution of the third point of exercise 2
 
 # Excercise 3
+
+* lorentz-approximation.ipynb contains the solution of exercise 3
