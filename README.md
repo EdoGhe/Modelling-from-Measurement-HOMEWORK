@@ -8,6 +8,7 @@ In the Excercise 1 directory it is possible to find:
 * optdmd-master: the repository of optdmd from https://github.com/duqbo/optdmd
 
 The notebook for Excercise 1.4 is: 
+
 As reference for pysindy please refer to https://github.com/dynamicslab/pysindy
 
 # Excercise 2
