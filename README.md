@@ -11,6 +11,7 @@ The notebook for Excercise 1.4 is:
 
 * ks-solver.ipynb contains the solution of the first two points of exercise 2
 * reaction-diffusion-svd.ipynb contains the solution of the third point of exercise 2
+* RD solve contains the matlab scripts to generate the reaction-diffusion dataset
 
 # Excercise 3
 
